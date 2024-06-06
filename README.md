@@ -2,7 +2,7 @@ Hi there 👋
 
 ## Projeto Java: :computer:
 
-Simulação de um sistema bancário criado com linguagem de programação Java.
+Criando Um Pequeno Sistema Para Validação de Processo Seletivo.
 
 ## Getting Started: :wrench:
 
